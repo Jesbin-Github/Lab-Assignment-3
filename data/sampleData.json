@@ -1,0 +1,38 @@
+[
+    { 
+        "id": 1, 
+        "name": "Apple",
+        "origin" : "USA" 
+    },
+
+    { 
+        "id": 2, 
+        "name": "Banana", 
+        "origin" : "Canada" 
+    },
+
+    { 
+        "id": 3, 
+        "name": "Cherry", 
+        "origin" : "Poland"
+    },
+
+    { 
+        "id": 4, 
+        "name": "Peach", 
+        "origin" : "China" 
+    },
+
+    { 
+        "id": 5, 
+        "name": "Straw Berry" , 
+        "origin" : "Brazil"
+    },
+
+    { 
+        "id": 6,
+        "name": "Fig", 
+        "origin" : "India" 
+    }
+
+  ]
